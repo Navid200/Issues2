@@ -1,6 +1,5 @@
 ---
 name: "Please do NOT open an issue!"
-about: Please do NOT open an issue!
 label: status-triage
 ---
 
