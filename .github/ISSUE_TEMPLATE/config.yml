@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: xDrip Issues, Feature requests, and Questions
     url: https://github.com/NightscoutFoundation/xDrip/discussions
-    about: Please let us manage the issues.            Thanks for taking the time to provide your input, which is very important.  Please open a discussion (link on the right).  A team member will respond, and if needed create a corresponding issue.
+    about: "Please let us manage the issues.            Thanks for taking the time to provide your input, which is very important.  Please open a discussion (link on the right).  A team member will respond, and if needed create a corresponding issue."
